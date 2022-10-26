@@ -13,5 +13,9 @@ class Student{
   branch1{
     //newly added in this branch
   }
+  
+  branch2{
+    //branch2 added
+  }
 }
 
